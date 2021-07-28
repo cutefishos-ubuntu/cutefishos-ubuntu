@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 38" width="150" height="38">
+	<title>manjaro</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #333333 } 
+		.txt1 { font-size: 182px;fill: #ffffff;font-family: "sans" } 
+	</style>
+	<g id="g860">
+		<path id="rect2" class="shp0" d="M9.01 0L140.99 0C145.97 0 150 4.03 150 9.01L150 28.49C150 33.47 145.97 37.5 140.99 37.5L9.01 37.5C4.03 37.5 0 33.47 0 28.49L0 9.01C0 4.03 4.03 0 9.01 0Z" />
+		<g id="g8">
+			<text id="Download " style="transform: matrix(0.147,0,0,0.147,8.676,25.839)" >
+				<tspan x="0" y="0" class="txt1">Download</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
